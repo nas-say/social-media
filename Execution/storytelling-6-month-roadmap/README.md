@@ -13,13 +13,13 @@ A **complete, ready-to-execute system** for building a faceless storytelling cha
 ### Today (15 Minutes):
 1. Read: `START-HERE.md`
 2. Check: `docs/01-SETUP-CHECKLIST.md`
-3. Begin setup (takes one weekend)
+3. You already have Canva Edu Pro ✅
 
-### This Weekend (6-8 Hours):
-1. Complete setup checklist
-2. Install Python automation
-3. Create first batch of 21 reels
-4. Schedule your first week
+### This Weekend (4 Hours Total):
+1. Complete social account setup (2 hrs)
+2. Create Canva templates (30 min)
+3. Create first batch of 21 reels (90 min)
+4. Schedule your first week (30 min)
 
 ### Monday (Launch Day):
 1. First reel posts at 7 AM
@@ -72,11 +72,25 @@ storytelling-6-month-roadmap/
 
 ## ⚡ Your Daily Reality
 
-### 90% Automated (Sunday, 45 min):
-1. Select 21 stories (5 min)
-2. ChatGPT generates scripts (5 min)
-3. Python creates 21 reels (25 min - runs automatically)
-4. Schedule all to Meta Suite (10 min)
+### Weekly Content Creation (Sunday, 90 min):
+1. **Generate voiceovers** (20 min)
+   - Copy 21 scripts to ElevenLabs
+   - Click generate for each
+   - Download all audio files
+   
+2. **Download stock videos** (15 min)
+   - Search Pexels for category-specific footage
+   - Download 21 vertical videos
+   
+3. **Create reels in Canva** (45 min)
+   - Use your saved templates
+   - Duplicate → add video + audio
+   - Edit text hooks
+   - Export all (2-3 min per reel)
+   
+4. **Schedule all posts** (10 min)
+   - Upload to Meta Business Suite
+   - Schedule 3x/day for 7 days
 
 **Rest of week**: Zero content creation needed
 
@@ -93,18 +107,20 @@ storytelling-6-month-roadmap/
 ## 💰 Investment
 
 ### Setup (One-Time):
-- **Time**: 6-8 hours (one weekend)
+- **Time**: 4 hours (one weekend)
 - **Cost**: $0
 
 ### Monthly:
-- **ElevenLabs API**: $22/month (voiceovers)
+- **ElevenLabs**: $5-22/month (voiceovers, based on usage)
+- **CapCut**: FREE
+- **Pexels**: FREE
 - **Time**: 2.5 hours/week = 10 hours/month
-- **Total**: $22/month + 10 hours
+- **Total**: $5-22/month + 10 hours
 
 ### ROI:
 - Month 6: $6,000 revenue
-- Cost: $132 total (6 × $22)
-- **ROI**: 45x
+- Cost: $30-132 total (6 months)
+- **ROI**: 45x-200x
 
 ---
 
@@ -114,13 +130,26 @@ storytelling-6-month-roadmap/
 - Setup checklist (20 items, everything you need)
 - 180 pre-researched stories (no research needed!)
 - Month-by-month execution plans
-- Automation guides
+- CapCut template guide (easiest method)
 
-### ✅ Ready-to-Run Code:
-- Python script (creates cinematic reels)
-- 5 unique visual templates
-- Story-specific footage matching
-- High-quality export settings
+### ✅ Multiple Creation Methods:
+**Primary (Recommended):** Canva Templates
+- You already have Canva Edu Pro! ✅
+- Works in India
+- 3-4 min per reel
+- Professional results
+- Super customizable
+
+**Alternative:** InShot or VN Editor (Mobile)
+- Available in India
+- Free with watermark / $3/month for pro
+- 2-3 min per reel on mobile
+
+**Advanced (Optional):** Python Automation
+- Ready-to-run code included in `/scripts`
+- Fully automated
+- Requires technical setup
+- Best if creating 50+ reels/month
 
 ### ✅ Templates & Resources:
 - CSV templates for content
@@ -230,11 +259,16 @@ storytelling-6-month-roadmap/
 
 ## 🔧 Tech Stack
 
-### Content Creation:
-- **Python** + MoviePy (video assembly)
-- **ElevenLabs API** (AI voiceovers)
-- **Pexels API** (stock footage - FREE)
+### Content Creation (Primary Method):
+- **Canva Edu Pro** (design/templates - you have this!)
+- **ElevenLabs** (AI voiceovers - $5-22/month)
+- **Pexels** (stock footage - FREE)
 - **ChatGPT** (scripts - free web version)
+
+### Content Creation (Alternatives for India):
+- **InShot** (mobile editing - FREE/Pro $3/month)
+- **VN Video Editor** (mobile - FREE)
+- **Python** + MoviePy (automated - see `/scripts`)
 
 ### Posting & Scheduling:
 - **Meta Business Suite** (Instagram + Facebook - FREE)

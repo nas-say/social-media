@@ -9,12 +9,12 @@ This guide gets you from zero to posting your first reel in **one weekend**.
 ## ⏱️ The Time Commitment
 
 ### Setup (One Weekend): 
-- Saturday: 4 hours
-- Sunday: 3 hours
-- **Total**: 7 hours (one time)
+- Saturday: 2 hours (accounts setup)
+- Sunday: 2 hours (first content batch)
+- **Total**: 4 hours (one time)
 
 ### Ongoing (After Launch):
-- **Sunday**: 45 min/week (create all content)
+- **Sunday**: 90 min/week (create all content)
 - **Daily**: 15 min (engagement only)
 - **Total**: 2.5 hours/week
 
@@ -23,45 +23,20 @@ This guide gets you from zero to posting your first reel in **one weekend**.
 ## 💰 The Investment
 
 - **Setup**: $0
-- **Monthly**: $22 (ElevenLabs API for voiceovers)
-- **6-Month Total**: $132
+- **Monthly**: $5-22 (ElevenLabs for voiceovers)
+- **6-Month Total**: $30-132
 
-**ROI**: Month 6 = $6,000 revenue = 45x return
+**ROI**: Month 6 = $6,000 revenue = 45x-200x return
 
 ---
 
 ## 📋 Your Weekend Plan
 
-### Saturday Morning (2 hours) - Software Setup
+### Saturday Morning (2 hours) - Social Accounts Setup
 
-**Hour 1: Install Python**
-1. Download: [python.org/downloads](https://python.org/downloads)
-2. Run installer (CHECK "Add Python to PATH")
-3. Open Command Prompt
-4. Test: `python --version`
-5. Install libraries: `pip install -r scripts/requirements.txt`
+**Hour 1-2: Create All Accounts**
 
-✅ Done when: `python --version` shows 3.x
-
-**Hour 2: Get API Keys**
-1. ElevenLabs: [elevenlabs.io](https://elevenlabs.io)  
-   - Sign up for Creator plan ($22/month)
-   - Profile → API Keys → Generate
-   - Copy key: `sk_abc123...`
-
-2. Pexels: [pexels.com/api](https://pexels.com/api)  
-   - Sign up free
-   - Copy API key
-
-3. Save both keys to: `scripts/config.py`
-
-✅ Done when: Both API keys saved
-
----
-
-### Saturday Afternoon (2 hours) - Social Accounts
-
-**Follow**: `docs/01-SETUP-CHECKLIST.md` items #1-6
+Follow: `docs/01-SETUP-CHECKLIST.md` items #1-6
 
 1. Instagram Business account (20 min)
 2. Facebook Page (20 min)
@@ -74,33 +49,66 @@ This guide gets you from zero to posting your first reel in **one weekend**.
 
 ---
 
-### Sunday Morning (2 hours) - First Content Batch
+### Sunday Morning (90 minutes) - First Content Batch
 
-**Hour 1: Select & Script Stories**
+**Step 1: Create Canva Master Template** (15 min)
+1. Open Canva (you already have Edu Pro!)
+2. Create design → Custom size → 1080 x 1920px
+3. Name it: "Story Reel Master Template"
+
+**Create 5 template pages** (quick setup):
+- **Page 1**: Dark Mystery (black overlay, white text, vignette)
+- **Page 2**: True Crime (red accents, "CASE FILE" header)
+- **Page 3**: Historical (sepia tone, gold text, vintage vibes)
+- **Page 4**: Suspense (red warnings, bold text)
+- **Page 5**: Clean (minimal, modern)
+
+**Each page needs**:
+- Background video placeholder
+- Hook text layer (top third)
+- Your color palette saved
+- Save entire document
+
+✅ Done when: 5 template variations saved
+
+**Step 2: Generate 21 Voiceovers** (20 min)
 1. Open: `docs/02-MASTER-STORY-DATABASE.md`
 2. Pick your first 21 stories (see Month 1 for suggestions)
-3. Copy titles
-4. Open ChatGPT (free version)
-5. Use this prompt:
-   ```
-   Create scripts for these 21 stories:
-   [paste titles]
-   
-   Format as CSV: Title,Hook,Script,Category,CTA
-   ```
-6. Copy output to: `templates/week_1_stories.csv`
+3. Open ElevenLabs.io (free account works)
+4. For each story:
+   - Copy script
+   - Paste into ElevenLabs
+   - Click "Generate"
+   - Download as `story-01.mp3`, `story-02.mp3`, etc.
+5. Save all to folder: `voiceovers/week-1/`
 
-✅ Done when: CSV has 21 complete stories
+✅ Done when: 21 audio files downloaded
 
-**Hour 2: Generate Reels**
-1. Open Command Prompt
-2. Navigate: `cd C:\...\storytelling-6-month-roadmap\scripts`
-3. Edit `week_1_stories.csv` path in config if needed
-4. Run: `python auto_reel_creator.py`
-5. **Walk away for 25-30 minutes**
-6. Come back to 21 finished reels in `exports/week_1/`
+**Step 3: Download 21 Stock Videos** (15 min)
+1. Go to: pexels.com/videos
+2. For each story category:
+   - True Crime: Search "dark corridor crime"
+   - Historical: Search "vintage historical"
+   - Unexplained: Search "mysterious fog"
+   - Survival: Search "ocean storm"
+3. Download vertical/portrait videos only
+4. Save as `video-01.mp4`, `video-02.mp4`, etc.
+5. Save to folder: `footage/week-1/`
 
-✅ Done when: 21 .mp4 files created
+✅ Done when: 21 video files downloaded
+
+**Step 4: Create 21 Reels in Canva** (40 min)
+1. Open your saved template
+2. For EACH of 21 reels (2-3 min each):
+   - **Duplicate the page** (Ctrl+D) for appropriate template
+   - **Replace background video**: Upload → Delete placeholder → Drag footage file
+   - **Upload audio**: Elements → Uploads → Upload voiceover file → Add to page
+   - **Edit hook text**: Click text → Paste hook from database
+   - **Preview**: Play to check timing
+   - **Export**: Share → Download → MP4 Video → Save as `reel-01.mp4`
+3. Repeat for all 21
+
+✅ Done when: 21 finished .mp4 files exported
 
 ---
 
