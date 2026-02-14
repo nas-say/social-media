@@ -94,28 +94,46 @@ Get ALL tools set up and ready before posting your first reel.
 3. Click "Create a design" → Custom size → 1080 x 1920px
 4. Name it: "Story Reel Master Template"
 
-**Set Up Brand Kit:**
+**Set Up Your Color System** (Brand Kit Alternative):
+
+**If you DON'T have Brand Kit access** (most Canva Edu users):
+1. Create a new design 1080 x 1920px
+2. Name it: "🎨 COLOR PALETTE - MASTER"
+3. Add 5 color blocks with these hex codes:
+   - **Deep Black**: #0A0A0A
+   - **Dark Blue**: #1A1A2E
+   - **Blood Red**: #E94560
+   - **Gold**: #FFD700
+   - **White**: #FFFFFF
+4. Add text with your fonts:
+   - Headline example: "Bebas Neue" or "Oswald" (Bold, 80pt)
+   - Body example: "Roboto" or "Open Sans" (Regular, 44pt)
+5. Save this design
+6. **Keep it open in a tab** - you'll copy colors from here!
+
+**If you DO have Brand Kit access** (admins only):
 1. Click "Brand Kit" in left sidebar
-2. Add your colors:
-   - #0A0A0A (Deep Black)
-   - #1A1A2E (Dark Blue)
-   - #E94560 (Blood Red)
-   - #FFD700 (Gold)
-   - #FFFFFF (White)
-3. Add fonts:
-   - Headline: "Bebas Neue" or "Oswald"
-   - Body: "Roboto" or "Open Sans"
+2. Add the 5 colors above
+3. Add the fonts above
 4. Save brand kit
 
-**Create Folders:**
-- True Crime
-- Historical
-- Mystery
-- Survival
-- Templates
-- Final Exports
+**Pro Tip**: With your color palette template open, you can:
+- Click the eyedropper tool when choosing colors
+- Click on your palette design
+- Boom! Perfect colors every time
 
-**✅ Done when**: Brand kit is saved and folders are created
+**Create Folders:**
+1. Click "Projects" in Canva sidebar
+2. Create folders:
+   - True Crime
+   - Historical
+   - Mystery
+   - Survival
+   - Templates
+   - Final Exports
+   - **COLOR PALETTE** (put your master palette here)
+
+**✅ Done when**: Color palette design is created and folders are set up
 
 ---
 
