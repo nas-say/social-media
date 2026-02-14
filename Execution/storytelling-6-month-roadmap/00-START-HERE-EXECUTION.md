@@ -34,17 +34,18 @@ storytelling-6-month-roadmap/
 ### Month 1 (February 14 - March 13, 2026)
 **Goal**: Launch + Find Your Rhythm
 - Set up all tools (3 days)
-- Post 3x/day consistently (84 posts total)
+- Post 3x/day to Instagram + Facebook (cross-post = zero extra work!)
+- 84 posts total per platform (same content, both audiences)
 - Identify top-performing story types
-- Hit 2,000 followers
-- **Milestone**: First viral reel (500k+ views)
+- Hit 2,000 Instagram followers + 1,000 Facebook followers
+- **Milestone**: First viral reel (500k+ views combined)
 
 ### Month 2 (March 14 - April 13, 2026)
 **Goal**: YouTube Expansion
-- Continue 3x/day Instagram
+- Continue 3x/day Instagram + Facebook
 - Launch YouTube channel
-- Repurpose all content to YouTube Shorts
-- Hit 5,000 Instagram followers
+- Repurpose all content to YouTube Shorts (now posting to 3 platforms!)
+- Hit 5,000 Instagram + 2,500 Facebook followers
 - **Milestone**: 1,000 YouTube subscribers
 
 ### Month 3 (April 14 - May 13, 2026)
@@ -52,31 +53,34 @@ storytelling-6-month-roadmap/
 - Hit YouTube monetization threshold (10M Short views)
 - Launch first eBook (100 Mysteries)
 - Start email list building
-- Hit 10,000 Instagram followers
+- Hit 10,000 Instagram + 5,000 Facebook followers
 - **Milestone**: First $500 revenue month
 
 ### Month 4 (May 14 - June 13, 2026)
-**Goal**: YouTube Long-Form
+**Goal**: YouTube Long-Form + Facebook Monetization
 - Start long-form YouTube videos (2x/week)
+- Apply for Facebook Reels monetization (if eligible)
 - First sponsorship deals
 - Launch Patreon
-- Hit 25,000 Instagram followers
+- Hit 25,000 Instagram + 12,000 Facebook followers
 - **Milestone**: $1,500+ revenue month
 
 ### Month 5 (June 14 - July 13, 2026)
 **Goal**: Scale & Optimize
-- Hire VA for scheduling
+- Hire VA for scheduling across all platforms
 - Launch second product
 - Scale sponsorships (2-3/month)
-- Hit 50,000 Instagram followers
+- Hit 50,000 Instagram + 25,000 Facebook followers
 - **Milestone**: $3,000+ revenue month
 
 ### Month 6 (July 14 - August 13, 2026)
 **Goal**: Systematize
 - Full workflow systematization
 - Consider second channel or scale current
-- Hit 75,000-100,000 Instagram followers
+- Hit 75,000-100,000 Instagram + 40,000-50,000 Facebook followers
 - **Milestone**: $5,000+ revenue month
+
+**Total 6-Month Reach**: 150,000+ followers across all platforms
 
 ---
 
@@ -277,40 +281,108 @@ Track these weekly in `11-WEEKLY-WORKFLOW-TEMPLATE.md`:
 
 ---
 
+## 📱 Facebook Cross-Posting Strategy
+
+### Why Facebook is GOLD for Storytelling:
+
+**Different Audience**:
+- Older demographic (30-65 years old)
+- LOVES mysteries, true crime, historical stories
+- Higher engagement on emotional content
+- More likely to share with family/friends
+
+**Monetization Opportunities**:
+- **Facebook Stars**: Viewers can send you stars (money) during reels
+- **Ad Revenue**: Facebook pays for Reels views (similar to YouTube)
+- **Monetization Threshold**: 
+  - 10,000 page followers OR
+  - 600,000 minutes viewed in 60 days
+- **Potential**: $50-200+ per month once monetized
+
+**Facebook-Specific Tips**:
+
+1. **Join Relevant Facebook Groups**:
+   - True Crime groups
+   - History enthusiasts
+   - Mystery lovers
+   - Share your reels (follow group rules!)
+   - Engage authentically
+
+2. **Optimal Posting Times** (Often different from Instagram):
+   - Morning: 9-11 AM (coffee scroll)
+   - Lunch: 12-2 PM
+   - Evening: 7-9 PM (prime time)
+   - Test and track what works for YOUR audience
+
+3. **Engagement Tactics**:
+   - Ask questions in captions (FB users love commenting)
+   - Respond  to every comment (algorithm boost)
+   - React to comments with emojis
+   - Pin top comments
+
+4. **Content That Wins on Facebook**:
+   - Longer captions work better (unlike Instagram)
+   - Historical content performs VERY well
+   - Family-friendly true crime (not too graphic)
+   - Feel-good survival stories
+
+5. **Cross-Promotion**:
+   - Invite Instagram followers to like Facebook page
+   - Invite Facebook fans to follow Instagram
+   - "Follow on both for daily mysteries!"
+
+### Facebook Hashtags (Different Strategy):
+- Use 3-5 hashtags max (not 15-20 like Instagram)
+- More specific hashtags
+- Example: #TrueCrimeStories #HistoryMystery #UnsolvedCases
+
+---
+
 ## 💰 Revenue Milestones
 
 ### Month 1: $0-50
 - Set up affiliate links
 - First few clicks
+- **Platforms**: Instagram, Facebook (organic reach only)
 
 ### Month 2: $50-200
 - YouTube growing
 - Affiliate conversions
+- **Platforms**: Instagram, Facebook, YouTube (not monetized yet)
 
 ### Month 3: $500-1,000
 - eBook launch
-- YouTube monetized
+- YouTube monetized (Shorts)
 - First affiliate success
+- **Platforms**: Instagram, Facebook, YouTube Shorts monetized
 
 ### Month 4: $1,500-2,500
 - YouTube long-form ad revenue
-- First sponsorships
+- First sponsorships (cross-platform deals)
 - Patreon members
 - Product sales
+- **Facebook Stars** potential begins
+- **Platforms**: All 3 monetized
 
 ### Month 5: $3,000-4,000
 - Multiple sponsors
 - Growing Patreon
 - Consistent product sales
 - YouTube scaling
+- **Facebook ad revenue** if threshold met (10k followers)
+- **Platforms**: Full monetization stack
 
 ### Month 6: $5,000-7,000
 - Full revenue stack operational
 - Systematic sponsorships
-- Strong YouTube revenue
+- Strong YouTube revenue (Shorts + Long-form)
+- **Facebook Reels ads** contributing
 - Multiple products selling
+- **Platforms**: Instagram affiliate + YouTube ads + Facebook ads + Products + Patreon + Sponsors
 
 **6-Month Projected Total: $10,000-15,000**
+
+**Potential with Facebook monetization**: Extra $500-1,500 over 6 months
 
 ---
 

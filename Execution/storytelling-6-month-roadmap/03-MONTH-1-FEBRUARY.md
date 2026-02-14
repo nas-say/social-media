@@ -2,13 +2,32 @@
 
 ## 🎯 Month 1 Goals
 
+### Instagram:
 - **Post**: 84 reels (3/day for 28 days)
 - **Followers**: 2,000+
 - **Engagement Rate**: 15%+
 - **Viral Reels**: 2-3 (500k+ views)
-- **Learn**: Which story types perform best
+
+### Facebook:
+- **Post**: Same 84 reels (cross-posted automatically!)
+- **Page Likes**: 500-1,000
+- **Followers**: 800-1,500
+- **Engagement Rate**: 10-12% (typical for Facebook)
+- **Bonus**: Different audience = extra reach
+
+### Combined Platforms:
+- **Total Followers**: 2,500-3,500
+- **Total Views**: 500k-1M+
+- **Learn**: Which story types perform best on each platform
 - **Setup**: All tools and workflows
-- **Milestone**: First 1,000 followers by Week 3
+- **Milestone**: First 1,000 Instagram followers + 500 Facebook page likes by Week 3
+
+**The Power of Cross-Posting:**
+- ✅ One video upload = 2 platforms
+- ✅ Zero extra time
+- ✅ Facebook audience is older (25-65) - loves storytelling!
+- ✅ Different algorithms = more chances to go viral
+- ✅ Combined reach potential is MASSIVE
 
 ---
 
@@ -171,34 +190,46 @@
 
 ### DAY 4: Monday, February 17, 2026 - LAUNCH DAY! 🚀
 
-**7:00 AM** - Post Story #1 (Library)
-- [ ] Upload to Instagram via Meta Suite
-- [ ] Caption: "The greatest library ever built. Then... nothing. What was lost? 📚 #history #mystery #historyfacts #ancienthistory #knowledge #lostknowledge #didyouknow #learn"
-- [ ] Share to story: "New series starting today! 👀"
-- [ ] Monitor for first 30 min
+**7:00 AM** - Post Story #1 (Library) - INSTAGRAM + FACEBOOK
+
+**In Meta Business Suite:**
+- [ ] Upload video
+- [ ] **Check BOTH boxes**: ☑️ Instagram Reels + ☑️ Facebook Reels
+- [ ] Caption (same for both): "The greatest library ever built. Then... nothing. What was lost? 📚 #history #mystery #historyfacts #ancienthistory #knowledge #lostknowledge #didyouknow #learn"
+- [ ] Publish to BOTH platforms simultaneously
+- [ ] Share to Instagram story: "New series starting today! 👀"
+- [ ] Share to Facebook story (same message)
+- [ ] Monitor both platforms for first 30 min
 
 **7:30-8:00 AM** - Engagement Actions:
-- [ ] Reply to ANY comments immediately
-- [ ] Engage with 5 accounts from your list
+- [ ] Reply to ANY comments on Instagram immediately
+- [ ] Reply to ANY comments on Facebook immediately
+- [ ] Engage with 5 Instagram accounts from your list
+- [ ] Engage with 5 Facebook pages/groups (storytelling, mystery groups)
 - [ ] Like/comment on their recent posts
 
-**1:00 PM** - Post Story #2 (Evil Nurse)
-- [ ] Upload
+**1:00 PM** - Post Story #2 (Evil Nurse) - BOTH PLATFORMS
+- [ ] Upload via Meta Suite
+- [ ] **Check BOTH**: ☑️ Instagram Reels + ☑️ Facebook Reels
 - [ ] Caption: "They trusted her with their babies. Biggest mistake of their lives. Part 2? #truecrime #mystery #truecrimecommunity #scary #unsolved #dark #storytime"
-- [ ] Share to story
-- [ ] Engage 30 min
+- [ ] Share to both stories
+- [ ] Engage 30 min on both platforms
 
-**9:00 PM** - Post Story #3 (The Hum) - **PRIME TIME**
-- [ ] Upload
+**9:00 PM** - Post Story #3 (The Hum) - **PRIME TIME** - BOTH PLATFORMS
+- [ ] Upload via Meta Suite to both
 - [ ] Caption: "Can YOU hear it? Drop 👂 if you've experienced this. #unexplained #mystery #paranormal #strange #mysterious #theunknown #bizarre"
-- [ ] Share to story
-- [ ] Add poll to story: "Have you heard unexplained sounds? Yes/No"
-- [ ] Engage heavily 30-60 min (prime time = most activity)
+- [ ] Share to Instagram story with poll: "Have you heard unexplained sounds? Yes/No"
+- [ ] Share to Facebook story (same poll)
+- [ ] Engage heavily 30-60 min on BOTH platforms (prime time = most activity)
 
 **Before Bed**:
-- [ ] Check performance of all 3
-- [ ] Reply to all comments
-- [ ] Note: Which got most views? engagement?
+- [ ] Check performance on Instagram
+- [ ] Check performance on Facebook (often different results!)
+- [ ] Reply to all comments on both
+- [ ] Note: Which platform got more views? engagement?
+- [ ] Note: Any performance differences between platforms?
+
+**Pro Tip**: Facebook often shows different performance than Instagram. One reel might flop on IG but go viral on Facebook (or vice versa). This is why cross-posting is GOLD!
 
 ---
 
@@ -412,15 +443,38 @@ Continue 3x/day posting pattern.
 
 ### Track These Weekly:
 
+**Instagram Performance:**
 | Metric | Week 1 | Week 2 | Week 3 | Week 4 | Month Total |
 |--------|--------|--------|--------|--------|-------------|
 | Followers | 300 | 700 | 1,300 | 2,000 | 2,000 |
 | Avg Views | 2,500 | 5,000 | 12,000 | 20,000 | 10,000 avg |
 | Engagement Rate | 18% | 16% | 15% | 14% | 15.75% |
 | Top Reel Views | 25k | 80k | 300k | 600k | 600k |
+
+**Facebook Performance:**
+| Metric | Week 1 | Week 2 | Week 3 | Week 4 | Month Total |
+|--------|--------|--------|--------|--------|-------------|
+| Page Likes | 100 | 300 | 600 | 1,000 | 1,000 |
+| Followers | 150 | 450 | 900 | 1,500 | 1,500 |
+| Avg Views | 1,500 | 3,000 | 8,000 | 15,000 | 7,000 avg |
+| Engagement Rate | 12% | 11% | 10% | 10% | 10.75% |
+| Top Reel Views | 15k | 50k | 200k | 400k | 400k |
+
+**Combined Platforms:**
+| Metric | Week 1 | Week 2 | Week 3 | Week 4 | Month Total |
+|--------|--------|--------|--------|--------|-------------|
+| Total Followers | 450 | 1,150 | 2,200 | 3,500 | 3,500 |
+| Combined Views | 84k | 168k | 420k | 735k | 357k avg |
+| Best Performing Reel | 25k (IG) | 80k (IG) | 300k (IG) | 600k (IG) | 600k |
 | Revenue | $0 | $3 | $15 | $32 | $50 |
 
 *(These are projections - your results will vary)*
+
+**Key Insights to Track:**
+- Which platform performs better for which story types?
+- Is True Crime bigger on Facebook? (usually yes!)
+- Is Unexplained bigger on Instagram? (younger audience)
+- Different optimal posting times per platform?
 
 ---
 

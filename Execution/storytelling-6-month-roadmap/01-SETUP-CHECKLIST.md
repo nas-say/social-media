@@ -42,7 +42,50 @@ Get ALL tools set up and ready before posting your first reel.
 
 ---
 
-### ✅ 2. Canva Pro Setup (20 min)
+### ✅ 2. Facebook Page Setup (20 min)
+
+**Why Facebook?**: 
+- Older demographic (25-65) LOVES storytelling
+- Cross-post simultaneously with Instagram (zero extra work)
+- Facebook Reels monetization (ad revenue)
+- Different algorithm = more reach
+- Meta Suite manages both platforms
+
+**Create Facebook Page:**
+
+1. Go to facebook.com
+2. Click "+" → "Page"
+3. Choose "Entertainment" category
+4. Page Name: Same as Instagram (or similar)
+   - Examples: "Mystery Vault", "Untold Stories", "Hidden Histories"
+5. Add description (same as Instagram):
+   ```
+   📚 Stories that will keep you up at night
+   🔍 Mysteries | True Crime | History 
+   New story every day.
+   ```
+
+**Complete Page Setup:**
+- **Profile Picture**: Same as Instagram (consistent branding)
+- **Cover Photo**: Create in Canva (820 x 312px)
+  - Dark, mysterious aesthetic
+  - Text: "MYSTERIES REVEALED" or "STORIES THAT HAUNT YOU"
+- **Button**: Add "Sign Up" button → Links to your email list
+- **About Section**:
+  - Add your email
+  - Add Instagram handle
+  - Add website/Linktree
+
+**Settings to Adjust:**
+1. Settings → Page Setup → Templates → Choose "Video Creator"
+2. Notifications → Turn on all post notifications
+3. Publishing Tools → Crossposting → Connect to Instagram
+
+**✅ Done when**: Page is published and connected to Meta Business Suite
+
+---
+
+### ✅ 3. Canva Pro Setup (20 min)
 
 **You already have Canva Edu Pro!**
 
@@ -129,24 +172,43 @@ I'm creating a reel about [TOPIC]. Provide:
 
 ---
 
-### ✅ 4. Meta Business Suite Setup (15 min)
+### ✅ 4. Meta Business Suite Setup (20 min)
+
+**This is your CONTROL CENTER for both Instagram + Facebook!**
 
 1. Go to business.facebook.com
 2. Click "Create Account" or log in
 3. Connect your Instagram Business account
-4. Grant permissions
+4. Connect your Facebook Page
+5. Grant all permissions
 
-**Set Up Scheduling:**
+**Set Up Cross-Posting** (THE MAGIC):
 1. Click "Planner" in left sidebar
-2. Set your timezone to IST (India Standard Time)
-3. Bookmark this page for daily scheduling
+2. When creating a post, you'll see checkboxes for:
+   - ☑️ Instagram Feed
+   - ☑️ Facebook Feed
+   - ☑️ Instagram Reels  
+   - ☑️ Facebook Reels
+3. **Select ALL** - one upload posts to both platforms!
+4. Set your timezone to IST (India Standard Time)
+5. Bookmark this page for daily scheduling
 
-**Enable Insights:**
+**Enable Insights for Both Platforms:**
 1. Go to "Insights"
-2. Verify you can see metrics
-3. Bookmark for weekly review
+2. Switch between Instagram/Facebook tabs
+3. Verify you can see metrics for both
+4. Bookmark for weekly review
 
-**✅ Done when**: You can see your Instagram in Meta Suite and can create a draft post
+**Pro Tip**: 
+- Post to BOTH platforms simultaneously with one click
+- Facebook Reels get different audience (older demographic)
+- More views = more monetization potential
+- Literally ZERO extra work
+
+**✅ Done when**: 
+- Both Instagram + Facebook connected
+- Can create draft post that goes to both platforms
+- Insights visible for both
 
 ---
 
@@ -599,9 +661,11 @@ Create these folders now. You'll use them to organize everything.
 Review - all these should be checked:
 
 - [ ] Instagram Business Account created and complete
+- [ ] Facebook Page created and connected
 - [ ] Canva Pro confirmed, brand kit created
 - [ ] ChatGPT prompts saved
-- [ ] Meta Business Suite connected
+- [ ] Meta Business Suite connected (Instagram + Facebook)
+- [ ] Cross-posting enabled (one upload = both platforms)
 - [ ] Linktree created and in bio
 - [ ] YouTube channel created
 - [ ] ElevenLabs account with favorite voices
@@ -613,7 +677,7 @@ Review - all these should be checked:
 - [ ] Instagram highlights created
 - [ ] Email collection set up
 - [ ] Calendar time blocks added
-- [ ] 20 engagement accounts found
+- [ ] 20 engagement accounts found (Instagram + Facebook)
 - [ ] Hashtag sets organized
 - [ ] First 7 stories chosen
 - [ ] File folders created
