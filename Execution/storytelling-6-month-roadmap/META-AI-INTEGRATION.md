@@ -401,26 +401,52 @@ Give me the perfect 15-hashtag combo.
 
 ---
 
+## 🎬 Can Meta AI Create the VIDEO? (Important Reality Check)
+
+You might be wondering: *"Can I just ask Meta AI to make the video footage too?"*
+
+**The Short Answer: NO.** (Not for this business model)
+
+**The Long Answer:**
+While Meta AI can generate images ("Imagine") and short animations, it is **NOT** a replacement for Pexels stock footage for storytelling reels.
+
+### 🆚 Comparison: Meta AI Video vs. Pexels Stock
+
+| Feature | **Meta AI (Imagine/Video)** | **Pexels (Stock Footage)** |
+| :--- | :--- | :--- |
+| **Clip Length** | Generates **2-4 seconds** only | **Unlimited** (15-60 seconds) |
+| **Visual Style** | Dreamy, "AI look", weird hands/faces | Photorealistic, Cinematic, 4K |
+| **Consistency** | Style changes with every prompt | Consistent mood throughout |
+| **Workflow** | **Slow** (Need 15 clips for 1 reel) | **Fast** (Download 1 video, loop it) |
+| **Algorithm** | AI glitchiness can hurt retention | High-quality visuals hold attention |
+
+### ❌ The Problem with AI Video for Storytelling
+To make a 60-second Storytelling Reel with AI video:
+1. You need to fill 60 seconds.
+2. AI generates ~4 seconds at a time.
+3. You would need to write **15 perfect prompts** and stitch **15 clips** together.
+4. The result often looks disjointed and distracting.
+
+### ✅ The Pexels Advantage
+1. Search "Dark mysterious forest".
+2. Download ONE high-quality 30-second clip.
+3. Put it in Canva as the background.
+4. **Result:** Professional, moody atmosphere that lets the **STORY** (the most important part) take center stage.
+
+### 🚀 When To Use Meta AI Visuals
+Use Meta AI only when you need a **very specific image** that Pexels doesn't have.
+
+**Example:** "The ancient demon of 14th century France."
+1. Pexels won't have this.
+2. **Action:** Ask Meta AI: *"Imagine a scary 14th century demon illustration, dark style."*
+3. Upload Image to Canva.
+4. **Animate:** Use Canva's "Animate" -> "Breath" or "Zoom" to make it move slightly.
+
+**For 95% of reels, stick to Pexels video backgrounds.** It's faster, looks better, and is free.
+
+---
+
 ## ⚠️ Important Limitations
-
-### What Meta AI CANNOT Do:
-
-1. **No Voiceovers**
-   - Can't generate audio
-   - Still need ElevenLabs ($5-22/month)
-   - This is your only ongoing cost!
-
-2. **No Video Editing**
-   - Can't create or edit videos
-   - Still need Canva (you have free Edu)
-
-3. **No Direct Image Generation** (as of now)
-   - Can't create thumbnails/graphics
-   - Use Canva for all visuals
-
-4. **No API** (currently)
-   - Can't automate like Python scripts
-   - Must interact via chat interface
 
 ### What It's PERFECT For:
 
