@@ -197,17 +197,25 @@ For historical stories:
 
 ### Step 5: Create Templates 4 & 5 (Quick Versions)
 
-**Template 4: Suspense/Thriller**
-- Red/orange color scheme
-- Bold warning text: "⚠️ WARNING"
-- High contrast
-- Glitch effects (Elements → "glitch")
+Let's complete your master set with two distinct styles.
 
-**Template 5: Clean Minimal**
-- No heavy effects
-- Just clean white text
-- Subtle shadow
-- For "What If" or educational stories
+**Template 4: Suspense/Thriller** (For scary stories)
+1. **Add Page**: Click "Add page" (bottom left).
+2. **Background**: Add placeholder video + 50% black overlay.
+3. **Red Warning Header**:
+   - Elements → Shape → Red Rectangle at very top.
+   - Text on top: "⚠️ WARNING: DISTURBING CONTENT" (Black font, Bold).
+4. **Glitch Effect**:
+   - Elements → Search "Glitch overlay".
+   - Drag onto canvas → Set Transparency to 20%.
+
+**Template 5: Clean Minimal** (For educational/"What If" stories)
+1. **Add Page**: Click "Add page".
+2. **Background**: Add placeholder video + 30% black overlay.
+3. **Text**:
+   - Simple white text, centered.
+   - Font: "League Spartan" or "Montserrat".
+   - No heavy outlines or effects. Clean and modern.
 
 ---
 
@@ -383,14 +391,34 @@ Desktop/
 11. **Right-click video** → "Set video clip as background"
     - This puts it BEHIND all your text layers
 
-**Step 5: Upload and Add Voiceover**
+**Step 5: Upload and Add Voiceover (Specific Details)**
 
-1. Click **Uploads** again
-2. Upload your `story-01.mp3` file
-3. Wait for upload
-4. **Drag audio file onto page**
-5. Audio shows as a waveform at bottom of canvas
-6. Canva automatically matches video length to audio length!
+This is the most important step to get right.
+
+1. **Upload Audio**:
+   - Click **Uploads** (left sidebar).
+   - Click the **Audio** tab (next to Images/Videos).
+   - Click "Upload files" → Select your `story-01.mp3`.
+   - Wait for the upload to finish.
+
+2. **Add to Timeline**:
+   - **Click and DRAG** the audio file from the sidebar onto your design.
+   - **Drop it** anywhere on the canvas.
+   - You will see a **purple bar** appear at the very bottom of the screen (this is your timeline).
+
+3. **Check Video Length (Crucial!)**:
+   - **Problem**: Your video might be only 10 seconds, but your audio is 60 seconds.
+   - **Fix**: You need to extend the video to match the audio.
+   - **Method A (Looping)**: 
+     - Click the video background.
+     - Hover over the right edge of the video timeline clip until you see a double-arrow cursor `↔`.
+     - **Click and Drag to the right** to extend it until it ends at the same spot as your purple audio bar.
+   - **Method B (Duplicate)**:
+     - If dragging doesn't loop it, just **Right-Click** the video clip in the timeline → **Duplicate** until you have enough length to cover the audio.
+
+4. **Verify**:
+   - Look at the timeline at the bottom.
+   - The **Video track** (images) and **Audio track** (purple bar) should start and end at the same time.
 
 **Step 6: Edit the Hook Text**
 
