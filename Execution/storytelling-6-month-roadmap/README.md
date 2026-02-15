@@ -307,13 +307,14 @@ Complete day-by-day breakdown:
 ## 🔧 Tools You'll Use
 
 **Primary (Recommended):**
+- **Meta AI** (FREE script/hook generation!) - see `META-AI-INTEGRATION.md` ⭐
 - **Canva** (design/templates) - you have Edu Pro!
 - **ElevenLabs** (AI voiceovers) - $5-22/month
 - **Pexels** (stock videos) - FREE
 - **Meta Business Suite** (posting) - FREE
-- **ChatGPT** (script help if needed) - FREE web version
 
-**Optional (Advanced):**
+**Optional:**
+- **ChatGPT** (alternative to Meta AI) - FREE web version
 - **Python scripts** (full automation) - see `/scripts` folder
 - **InShot** or **VN Editor** (mobile alternatives)
 
