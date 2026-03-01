@@ -1,5 +1,5 @@
 # Social Media Content Strategy - Complete System
-sideflip-verify=f268a4d0fa05717e4c564fbd42ca18b1
+
 
 ## 📂 Folder Structure
 
